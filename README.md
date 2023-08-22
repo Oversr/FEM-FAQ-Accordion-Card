@@ -1,2 +1,1 @@
-# FEM-FAQ-Accordion-Card
- 
+FAQ accordion card with layered images
